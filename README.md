@@ -17,7 +17,7 @@ We’re also particularly keen to hear feedback from people in demographics that
 Here are some examples of when we might open an RFD:
 
 - Adding or changing a company process
-- An architectural design decision impacting the existing software or proposed new feature
+- An architectural design decision impacting the existing software or a proposed new feature
 - A change that affects the way people use our tools, especially if it could break integrations or impact their workflow
 - Changes to our public-facing strategies, such as the way we write content, manage our social media or do developer advocacy
 
