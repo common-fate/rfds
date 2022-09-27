@@ -12,7 +12,7 @@ We want to emphasize that we welcome *all* discussion and feedback on our tools,
 
 We’re also particularly keen to hear feedback from people in demographics that have been sidelined and discriminated against in tech, since we understand that such users are often wrongly lead to believe that their opinions are not as valuable as others.
 
-### When to start an RFD
+## When to start an RFD
 
 Here are some examples of when we might open an RFD:
 
@@ -24,3 +24,9 @@ Here are some examples of when we might open an RFD:
 Of course, we also welcome our users to open RFDs for any ideas, suggestions, concerns they may have. 
 
 If you have an idea for a discussion but don’t know if it might be too trivial or silly — just post it! We want to hear from you. Our Developer Advocate isn’t afraid of looking dumb when he makes [Twitter posts](https://twitter.com/CommonFateTech/status/1552457541061586945), so you shouldn’t worry either.
+
+## Opening an RFD
+Check out the [Discussions tab](https://github.com/common-fate/rfds/discussions/1) on this repo for how to open your own RFD.
+
+## What happens when an RFD is finished?
+When a discussion has reached a satisfactory conclusion, it'll be summarised in a Markdown file and added as a file in the repo.
